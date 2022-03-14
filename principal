@@ -3,4 +3,4 @@
 function($num1,$num2)
 {
 	echo $num1*$num2;
-}
+}int juanPortilla1(int a, int b){return a+b;}
